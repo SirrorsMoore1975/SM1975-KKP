@@ -1,0 +1,70 @@
+.navbar {
+    display: inline-flex;
+    flex-direction: column;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100vh;
+}
+
+.logout-button, .login-button {
+    font-size: 100%;
+    padding: 5px 10px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-radius: 100vh;
+    text-align: center;
+    width: 60%;
+    min-width: 200px;
+    height: 35px;
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #fa1212b9;
+    box-shadow: 0 5px 0 #f638388a;
+}
+
+.home-button {
+    font-size: 100%;
+    padding: 5px 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border-radius: 100vh;
+    width: 60%;
+    min-width: 200px;
+    height: 35px;
+    cursor: pointer;
+    box-shadow: 0 5px 0 #8382828a;
+}
+
+.my-memories-button {
+    font-size: 100%;
+    padding: 5px 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 100vh;
+    width: 60%;
+    min-width: 200px;
+    height: 35px;
+    cursor: pointer;
+    box-shadow: 0 5px 0 #8382828a;
+}
+
+.language-button-container {
+    display: inline;
+    align-items: center;
+}
+
+.language-button {
+    font-size: 100%;
+    padding: 5px 10px;
+    margin-top: 30px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.logout-button:active, 
+.login-button:active,
+.home-button:active,
+.my-memories-button:active {
+    box-shadow: none;
+    transform: translateY(3px);
+}
