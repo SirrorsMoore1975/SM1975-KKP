@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.App {
+    height: 100%;
+    min-height: 100vh;
+    display: flex;
+}
+
+.map-prefecture {
+    fill: #d3d3d3;
+    stroke: #959595;
+    stroke-width: 1px;
+}
+
+.map-prefecture:focus {
+    fill: #9ED6AD;
+    stroke: green;
+    stroke-width: 1px;
+    outline: none;
+}
+
+.navbar-container {
+    display: inline-flex;
+    flex-direction: column;
+    flex-grow: 1;
+    float: right;
+    background-color: rgb(227, 227, 227);
+    align-items: stretch;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.main-area {
+    float: left;
+    flex-grow: 9;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}

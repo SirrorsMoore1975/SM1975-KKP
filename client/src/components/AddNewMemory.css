@@ -1,0 +1,37 @@
+.memory-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.memory-content-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.memory-content-container > div {
+    margin: 20pt;
+}
+
+.memory-content-container label {
+    display: block; 
+    text-align: left;
+    align-content: flex-start;
+    margin: auto 12pt;
+}
+
+.photo-selector {
+    display: flex;
+    flex-direction: column;
+}
+
+.photo-selector img {
+    max-height: 200pt;
+    max-width: 200pt;
+}
+
+.text-editor {
+    display: flex;
+    flex-direction: column;
+}

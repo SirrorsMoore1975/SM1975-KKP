@@ -1,0 +1,304 @@
+{
+    "appName": {
+        "en": "Ken-Ken-PA!",
+        "ja": "県-県-ぱ!"
+    },
+    "prefectures": {
+        "01": {
+            "en": "Hokkaido",
+            "ja": "北海道"
+        },
+        "02": {
+            "en": "Aomori",
+            "ja": "青森県"
+        },
+        "03": {
+            "en": "Iwate",
+            "ja": "岩手県"
+        },
+        "04": {
+            "en": "Miyagi",
+            "ja": "宮城県"
+        },
+        "05": {
+            "en": "Akita",
+            "ja": "秋田県"
+        },
+        "06": {
+            "en": "Yamagata",
+            "ja": "山形県"
+        },
+        "07": {
+            "en": "Fukushima",
+            "ja": "福島県"
+        },
+        "08": {
+            "en": "Ibaraki",
+            "ja": "茨城県"
+        },
+        "09": {
+            "en": "Tochigi",
+            "ja": "栃木県"
+        },
+        "10": {
+            "en": "Gunma",
+            "ja": "群馬県"
+        },
+        "11": {
+            "en": "Saitama",
+            "ja": "埼玉県"
+        },
+        "12": {
+            "en": "Chiba",
+            "ja": "千葉県"
+        },
+        "13": {
+            "en": "Tokyo",
+            "ja": "東京都"
+        },
+        "14": {
+            "en": "Kanagawa",
+            "ja": "神奈川県"
+        },
+        "15": {
+            "en": "Niigata",
+            "ja": "新潟県"
+        },
+        "16": {
+            "en": "Toyama",
+            "ja": "富山県"
+        },
+        "17": {
+            "en": "Ishikawa",
+            "ja": "石川県"
+        },
+        "18": {
+            "en": "Fukui",
+            "ja": "福井県"
+        },
+        "19": {
+            "en": "Yamanashi",
+            "ja": "山梨県"
+        },
+        "20": {
+            "en": "Nagano",
+            "ja": "長野県"
+        },
+        "21": {
+            "en": "Gifu",
+            "ja": "岐阜県"
+        },
+        "22": {
+            "en": "Shizuoka",
+            "ja": "静岡県"
+        },
+        "23": {
+            "en": "Aichi",
+            "ja": "愛知県"
+        },
+        "24": {
+            "en": "Mie",
+            "ja": "三重県"
+        },
+        "25": {
+            "en": "Shiga",
+            "ja": "滋賀県"
+        },
+        "26": {
+            "en": "Kyoto",
+            "ja": "京都府"
+        },
+        "27": {
+            "en": "Osaka",
+            "ja": "大阪府"
+        },
+        "28": {
+            "en": "Hyogo",
+            "ja": "兵庫県"
+        },
+        "29": {
+            "en": "Nara",
+            "ja": "奈良県"
+        },
+        "30": {
+            "en": "Wakayama",
+            "ja": "和歌山県"
+        },
+        "31": {
+            "en": "Tottori",
+            "ja": "鳥取県"
+        },
+        "32": {
+            "en": "Shimane",
+            "ja": "島根県"
+        },
+        "33": {
+            "en": "Okayama",
+            "ja": "岡山県"
+        },
+        "34": {
+            "en": "Hiroshima",
+            "ja": "広島県"
+        },
+        "35": {
+            "en": "Yamaguchi",
+            "ja": "山口県"
+        },
+        "36": {
+            "en": "Tokushima",
+            "ja": "徳島県"
+        },
+        "37": {
+            "en": "Kagawa",
+            "ja": "香川県"
+        },
+        "38": {
+            "en": "Ehime",
+            "ja": "愛媛県"
+        },
+        "39": {
+            "en": "Kochi",
+            "ja": "高知県"
+        },
+        "40": {
+            "en": "Fukuoka",
+            "ja": "福岡県"
+        },
+        "41": {
+            "en": "Saga",
+            "ja": "佐賀県"
+        },
+        "42": {
+            "en": "Nagasaki",
+            "ja": "長崎県"
+        },
+        "43": {
+            "en": "Kumamoto",
+            "ja": "熊本県"
+        },
+        "44": {
+            "en": "Oita",
+            "ja": "大分県"
+        },
+        "45": {
+            "en": "Miyazaki",
+            "ja": "宮崎県"
+        },
+        "46": {
+            "en": "Kagoshima",
+            "ja": "鹿児島県"
+        },
+        "47": {
+            "en": "Okinawa",
+            "ja": "沖縄県"
+        }
+    },
+    "home": {
+        "en": "Home",
+        "ja": "トップ"
+    },
+    "email": {
+        "en": "Email Address",
+        "ja": "メールアドレス"
+    },
+    "password": {
+        "en": "Password",
+        "ja": "パスワード"
+    },
+    "login": {
+        "en": "Log In",
+        "ja": "ログイン"
+    },
+    "logout": {
+        "en": "Log Out",
+        "ja": "ログアウト"
+    },
+    "login-submit": {
+        "en": "Log In",
+        "ja": "ログインする"
+    },
+    "login-fail": {
+        "en": "Sorry Incorrect password or email address",
+        "ja": "パスワードまたはメールアドレスが正しくありません。"
+    },
+    "signup-prompt": {
+        "en": "Not a member? Sign up here!",
+        "ja": "アカウントをお持ちでない方はこちらから新規会員登録をお願いします。"
+    },
+    "signup": {
+        "en": "Sign Up",
+        "ja": "会員登録"
+    },
+    "signup-submit": {
+        "en": "Submit",
+        "ja": "登録する"
+    },
+    "my-memories": [
+        {
+            "en": "My Memories",
+            "ja": "マイメモリーズ"    
+        },
+        {
+            "en": "Your photos and memos",
+            "ja": "あなたの写真とメモ"
+        }
+    ],
+    "memories-of": [
+        {
+            "en": "Memories of ",
+            "ja": "の思い出"    
+        },
+        {
+            "en": "Photos and memos from everyone",
+            "ja": "皆の写真とメモ"
+        }
+    ],
+    "add-memory": {
+        "en": "Add a New Memory",
+        "ja": "新しい思い出を作成する"
+    },
+    "add-memory-of": {
+        "en": "Add a Memory of ",
+        "ja": "の思い出を追加する"
+    },
+    "see-memories": {
+        "en": "See My Memories",
+        "ja": "あなたの思い出を見る"
+    },
+    "see-memories-of": {
+        "en": "See Everyone's Memories of ",
+        "ja": "の全ての思い出を見る"
+    },
+    "remove-visit": {
+        "en": "Remove Visit",
+        "ja": "思い出の都道府県を削除"
+    },
+    "select-prefecture": {
+        "en": "Select Prefecture:",
+        "ja": "思い出の都道府県を選択："
+    },
+    "select-photo": {
+        "en": "Select Photo:",
+        "ja": "写真を選択："
+    },
+    "choose-photo": {
+        "en": "Choose Photo",
+        "ja": "写真を選択"
+    },
+    "explain-memory": {
+        "en": "Tell us about your memory:",
+        "ja": "思い出についてご入力ください："
+    },
+    "remove-photo": {
+        "en": "Remove Photo",
+        "ja": "写真を削除"
+    },
+    "submit-memory": {
+        "en": "Submit",
+        "ja": "思い出を追加"
+    },
+    "photo-zone": {
+        "en": "Photo Zone",
+        "ja": "フォトゾーン"
+    }
+}
